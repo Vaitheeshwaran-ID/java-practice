@@ -1,7 +1,7 @@
 package codingtraining;
 import java.util.*;
 
-public class c1 {
+public class palindrome {
 	public static void main(String[]args) {
 	Scanner sc = new Scanner(System.in);
 int og =sc.nextInt();
