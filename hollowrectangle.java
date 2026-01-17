@@ -2,7 +2,7 @@ public class HollowRectangle {
 
 	public static void main(String[] args) {
 		
-int n =4;
+int n =3;
 int m=5;
 
 for(int i=1;i<=n;i++) {
