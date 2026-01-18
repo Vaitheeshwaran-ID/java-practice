@@ -1,8 +1,8 @@
 import java.util.*;
 class Main {
     public static void main(String[] args) {
-        Scanner sc=new Scanner (System.in);
-        int og =sc.nextInt();
+        Scanner s=new Scanner (System.in);
+        int og =s.nextInt();
         
         int ogdup=og;
         int num=og;
