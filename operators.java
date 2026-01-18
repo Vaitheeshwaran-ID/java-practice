@@ -26,10 +26,10 @@ int negative = -a;
 
     int max = (a>b) ? a:b;
 
-    System.out.println("sum: " + sum/n );
-    System.out.println("difference:" + difference);
-    System.out.println("product" +product );
-    System.out.println("division" +division );
+    System.out.println("sum:" + sum/n );
+    System.out.println("difference: " + difference);
+    System.out.println("product:" +product );
+    System.out.println("division:" +division );
 System.out.println("modulo" +modulo );
 
         System.out.println("Assignment result x:" + X );
