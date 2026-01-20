@@ -9,3 +9,15 @@ finalScore(4, 6)
 finalScore(3, 4)
 → 7
 */
+public int finalScore(int a, int b) {
+    int c =a+b;
+    if(c==10){
+        return 0;
+    }
+    else if(a==10||b==10){
+        return 0;
+    }
+    else{
+return a+b;
+    }
+}
