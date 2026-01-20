@@ -8,3 +8,18 @@ gameResult(21)
 gameResult(18)
 → 3
 */
+public int gameResult(int n) {
+    
+    if(n>21){
+        int b=n-21;
+        int c=b+b;
+return c;
+    }
+    else if(n==21){
+return 0;
+    }
+    else{
+        int a=21-n;
+    return a;
+    }
+}
