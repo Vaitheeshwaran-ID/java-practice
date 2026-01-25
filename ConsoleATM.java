@@ -1,6 +1,5 @@
-package codingtraining;
 import java.util.*;
-public class ATM_Machine {
+public class ConsoleATM {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner (System.in);
