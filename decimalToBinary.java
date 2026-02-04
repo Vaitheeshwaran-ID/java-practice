@@ -1,6 +1,3 @@
-package codingtraining;
-
-public class binary {
 
 	public static void main(String[] args) {
 		
@@ -15,4 +12,3 @@ public class binary {
 
 	}
 
-}
