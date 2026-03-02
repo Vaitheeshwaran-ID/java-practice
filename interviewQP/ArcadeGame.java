@@ -11,7 +11,7 @@ finalScore(3, 4)
 */
 public int finalScore(int a, int b) {
     int c =a+b;
-    INT D=0;
+    
     if(c==10){
         return 0;
     }
