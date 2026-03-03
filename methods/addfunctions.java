@@ -3,7 +3,7 @@ import java.util.*;
 public class Add2functions {
 	
 public static int sum(int a,int b ) {
-	int sum = a+b;
+	float sum = a+b;
 	return sum;
 }
 
