@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class Arr2D {
 
@@ -19,7 +18,6 @@ System.out.print(arr[i][j]);
 }
 	System.out.println("");}
 
-	
 System.out.println("Type the Number to Search");
 int c = sc.nextInt();
 for(int i=0;i<a;i++) {
