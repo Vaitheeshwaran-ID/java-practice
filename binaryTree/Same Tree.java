@@ -7,7 +7,7 @@ class Solution {
         if(p==null||q==null||p.val!=q.val){
             return false;
         }
-
+//try new programs
         return isSameTree(p.left,q.left)&&isSameTree(p.right,q.right);
     }
 }
