@@ -14,6 +14,7 @@ public class _040526_2 {
 		Arrays.sort(a);
 		Arrays.sort(b);
 		System.out.println(Arrays.equals(a,b)?"Yes":"No");
+		//practice it
 			
 		}
 
